@@ -1,0 +1,14 @@
+body{ 
+    background-color: darkblue;
+}
+h1{
+    color:white;
+    font-family:Helvetica, sans-serif;
+    font-size: large;
+    
+}
+p{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
