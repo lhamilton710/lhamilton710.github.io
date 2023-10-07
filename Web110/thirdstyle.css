@@ -1,15 +1,14 @@
 body{ 
-    background-color:aliceblue;
+    background-color:darkolivegreen;
 }
 
 h1{
-    Color:black;
+    Color:darkred;
 }
     
 
 p{
-    color:black;
+    color:darkred;
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
-
